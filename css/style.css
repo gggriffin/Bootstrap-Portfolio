@@ -17,14 +17,16 @@
 
 @media only screen and (max-width: 980px) {
 
-.title-name {
-    margin-right: 10em;
+#title-name {
+    width: 20em;
 }
-
 }
 
 @media screen and (max-width: 768px) {
-
+#md-title-name {
+    width: 40em;
+    margin-right: 20em;
+}
 }
 
 @media screen and (max-width: 640px) {
